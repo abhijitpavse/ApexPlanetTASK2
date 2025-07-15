@@ -1,0 +1,31 @@
+📁 Project 2: Combined To-Do List and Dynamic Image Gallery
+📝 Title: Interactive To-Do List & Dynamic Image Gallery (JavaScript DOM Project)
+📋 Description:
+This project combines two interactive features on a single page: a dynamic to-do list and an image gallery. Both components are built using vanilla JavaScript and showcase DOM manipulation, event handling, and responsive styling.
+
+💡 Features:
+Add and remove to-do list items dynamically
+
+Add and remove images using valid URLs
+
+Responsive layout for mobile and desktop
+
+Clean and user-friendly design
+
+All functionality built without external libraries
+
+🚀 How to Use:
+Clone or download the repository
+
+Open index.html in your browser
+
+Try adding tasks and images dynamically
+
+Remove items with a single click
+
+🛠️ Tech Stack:
+HTML5
+
+CSS3
+
+JavaScript (DOM, events)
