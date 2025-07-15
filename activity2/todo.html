@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>To-Do & Image Gallery</title>
+  <link rel="stylesheet" href="style1.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>My Lists to DO</h1>
+
+    <!-- TO-DO LIST SECTION -->
+    <section class="todo-section">
+      <h2>📝 To-Do List</h2>
+      <div class="input-area">
+        <input type="text" id="taskInput" placeholder="Enter a task" />
+        <button onclick="addTask()">Add Task</button>
+      </div>
+      <ul id="taskList"></ul>
+    </section>
+
+    <!-- IMAGE GALLERY SECTION -->
+    <section class="gallery-section">
+      <h2>🖼️ Image Gallery</h2>
+      <div class="input-area">
+        <input type="text" id="imageUrl" placeholder="Enter image URL" />
+        <button onclick="addImage()">Add Image</button>
+      </div>
+      <div class="gallery" id="gallery"></div>
+    </section>
+  </div>
+
+  <script src="script1.js"></script>
+</body>
+</html>
