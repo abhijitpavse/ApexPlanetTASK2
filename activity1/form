@@ -1,0 +1,29 @@
+📁 Project 1: Responsive Contact Form with Validation
+📝 Title: Responsive Contact Form with HTML, CSS, and JavaScript Validation
+📋 Description:
+A fully responsive contact form built using HTML, styled with CSS Flexbox and Grid, and enhanced with JavaScript for real-time input validation. This project demonstrates the integration of form structure, design, and client-side validation logic.
+
+💡 Features:
+Responsive layout using Flexbox & CSS Grid
+
+Custom form styling and design
+
+JavaScript validation for required fields
+
+Email format check before submission
+
+Alerts and error feedback for a better user experience
+
+🚀 How to Use:
+Clone or download the repository
+
+Open index.html in your browser
+
+Fill out the contact form and test the validation logic
+
+🛠️ Tech Stack:
+HTML5
+
+CSS3 (Flexbox, Grid, Media Queries)
+
+JavaScript (vanilla DOM scripting)
